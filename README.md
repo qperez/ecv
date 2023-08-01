@@ -10,3 +10,8 @@ devices such as HDD, GPU, and LED light bulb. A detailed mode is also implemente
 configuration that has been measured in experiments. This mode provides in-depth insights into the energy consumption and time of use of devices by configuration.
 Therefore, with ECV, understanding energy consumption of configurations becomes much more straightforward for developers and end-users. It provides two usage scenarios one for
 developers and one for end-users. On the one hand, developers of utilities in configurable systems can use our tool to measure their energy consumption and monitor it as they evolve their utilities
+
+## Demonstration Video
+
+https://github.com/qperez/ecv/assets/9607428/952d0df7-7ef3-49da-8aa6-d0c624a7be45
+
